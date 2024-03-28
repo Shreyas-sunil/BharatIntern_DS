@@ -3,13 +3,13 @@ In this repository i completed the tasks that i got in the Machine Learning inte
 
 TASK : 1
 
-House Price Prediction :
+Titanic Survival probablility Prediction :
 
-"Machine Learning model to predict house price using linear regression only Jupyter notebook code.."
+"Build a predictive model to determine the likelihood of survival for passengers on the Titanic using data science techniques in Python."
 
 
 TASK : 2
 
-Iris Flowers Classification :
+SMS Spam classifier:
 
-"Predict the different species of flowers on the length of there petals and sepals only Jupyter notebook code."
+"Develop a text classification model to classify SMS as either spam or non-spam using data science techniques in Python."
